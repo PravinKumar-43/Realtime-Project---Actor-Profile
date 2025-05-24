@@ -1,0 +1,9 @@
+Here is a small Project
+First we are creating a Repository 
+In the main Branch we are creating a HTML file 
+Then we are creating two branch replicate of main branch name as user1 and user2
+
+
+User1 will make change in the HTML file and merge that with main branch
+
+User2 will pull the latest content from main Branch and then he will edit and push to main branch
